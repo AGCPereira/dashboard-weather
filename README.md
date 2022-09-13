@@ -23,5 +23,5 @@ if searched city is not recognized
  <img width="1440" alt="Screen Shot 2022-08-14 at 3 17 38 AM" src="https://user-images.githubusercontent.com/106856333/184526626-6fb660b3-62c3-4092-8643-e09661275bcc.png">
 
 ## Application Links
-*  
-*
+*  https://agcpereira.github.io/dashboard-weather/
+* https://github.com/AGCPereira/dashboard-weather.git
