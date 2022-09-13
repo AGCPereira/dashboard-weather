@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* added colour gradient to header*/
+header {
+    background-image: linear-gradient(to right, rgb(6, 6, 115), rgb(86, 8, 86));
+}
